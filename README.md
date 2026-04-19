@@ -207,14 +207,13 @@ paarth = {
 
 <div align="center">
 
-## 🌐 &nbsp;FIND ME IN THE WILD&nbsp; 🌐
+## 🌐 &nbsp;Let's Connect&nbsp; 🌐
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paarthyy)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paarth.sehgal23@st.niituniversity.in)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paarthyy)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/paarthyy)
 
 <br/>
 
